@@ -14,3 +14,12 @@ The Hospital Management System is a web-based software designed to streamline th
 6. Run the database migration by running: **php artisan migrate**
 7. Insert some started account data to the database. Get the file in the repo: _filename- account.sql_
 8. Start the application: **php artisan serve**
+
+### Account
+	Account Role	Username	     Password
+1	Administrator	admin	         Asd,car21
+2	Receptionist	receptionist	 Asd,car21
+3	Physician	    physician	     Asd,car21
+4	Pharmacy	    pharmacy	     Asd,car21
+5	Finance	      finance	       Asd,car21
+
