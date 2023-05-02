@@ -17,11 +17,11 @@ The Hospital Management System is a web-based software designed to streamline th
 
 ## Account
 ### Username
-admin
-receptionis
-physician
-pharmacy
-finance
+admin /
+receptionist /
+physician /
+pharmacy / 
+finance /
 
 ### Password
 Asd,car21
